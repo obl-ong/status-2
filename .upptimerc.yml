@@ -22,6 +22,7 @@ status-website:
   cname: status.oblong.dev
   # baseUrl: /your-repo-name
   logoUrl: https://home.obl.ong/img/favicon.png
+  favicon: https://home.obl.ong/img/favicon.png
   name: Obl.ong status
   introTitle: "Obl.ong status"
   introMessage: This is the status of Obl.ong - free, quality domains for all.
