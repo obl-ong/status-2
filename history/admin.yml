@@ -1,7 +1,7 @@
 url: https://admin.obl.ong/up
-status: down
-code: 502
-responseTime: 3538
-lastUpdated: 2024-04-11T09:16:54.146Z
+status: up
+code: 200
+responseTime: 359
+lastUpdated: 2024-04-11T12:42:06.859Z
 startTime: 2024-03-26T13:38:16.947Z
 generator: Upptime <https://github.com/upptime/upptime>
