@@ -1,7 +1,7 @@
 url: https://forum.obl.ong
-status: up
-code: 200
-responseTime: 3842
-lastUpdated: 2024-06-11T03:35:12.855Z
+status: down
+code: 502
+responseTime: 1341
+lastUpdated: 2024-06-11T03:45:40.820Z
 startTime: 2024-03-26T13:38:18.711Z
 generator: Upptime <https://github.com/upptime/upptime>
