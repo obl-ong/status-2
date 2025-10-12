@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/admin.obl.ong.ico",
     "slug": "admin",
     "status": "down",
-    "uptime": "87.56%",
+    "uptime": "87.41%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "82.33%",
-    "time": 650,
+    "uptimeYear": "82.06%",
+    "time": 580,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 540,
     "dailyMinutesDown": {
-      "2025-10-11": 97,
+      "2025-10-12": 104,
+      "2025-10-11": 1440,
       "2025-10-10": 1440,
       "2025-10-09": 1440,
       "2025-10-08": 1440,
@@ -92,8 +93,7 @@
       "2025-02-14": 10,
       "2024-12-11": 233,
       "2024-12-10": 13,
-      "2024-11-14": 7,
-      "2024-10-12": 977
+      "2024-11-14": 7
     }
   },
   {
@@ -102,18 +102,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/obl.ong.ico",
     "slug": "landing",
     "status": "down",
-    "uptime": "56.27%",
+    "uptime": "56.17%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "32.57%",
-    "time": 876,
+    "uptimeYear": "32.30%",
+    "time": 875,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 883,
+    "timeYear": 882,
     "dailyMinutesDown": {
-      "2025-10-11": 97,
+      "2025-10-12": 105,
+      "2025-10-11": 1440,
       "2025-10-10": 1440,
       "2025-10-09": 1440,
       "2025-10-08": 1440,
@@ -362,8 +363,7 @@
       "2025-01-29": 1440,
       "2025-01-28": 890,
       "2024-11-14": 7,
-      "2024-10-22": 19,
-      "2024-10-12": 977
+      "2024-10-22": 19
     }
   },
   {
@@ -372,18 +372,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/forum.obl.ong.ico",
     "slug": "forum",
     "status": "down",
-    "uptime": "87.24%",
+    "uptime": "87.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "82.33%",
-    "time": 1291,
+    "uptimeYear": "82.05%",
+    "time": 1286,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1017,
+    "timeYear": 1018,
     "dailyMinutesDown": {
-      "2025-10-11": 97,
+      "2025-10-12": 105,
+      "2025-10-11": 1440,
       "2025-10-10": 1440,
       "2025-10-09": 1440,
       "2025-10-08": 1440,
@@ -461,8 +462,7 @@
       "2024-12-11": 233,
       "2024-12-10": 13,
       "2024-11-30": 23,
-      "2024-11-14": 7,
-      "2024-10-12": 976
+      "2024-11-14": 7
     }
   },
   {
@@ -471,18 +471,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/events.obl.ong.ico",
     "slug": "events",
     "status": "down",
-    "uptime": "59.39%",
+    "uptime": "59.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "37.39%",
+    "uptimeYear": "37.12%",
     "time": 420,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 418,
     "dailyMinutesDown": {
-      "2025-10-11": 97,
+      "2025-10-12": 105,
+      "2025-10-11": 1440,
       "2025-10-10": 1440,
       "2025-10-09": 1440,
       "2025-10-08": 1440,
@@ -714,8 +715,7 @@
       "2024-11-17": 1440,
       "2024-11-16": 1440,
       "2024-11-15": 1440,
-      "2024-11-14": 49,
-      "2024-10-12": 976
+      "2024-11-14": 49
     }
   },
   {
@@ -724,18 +724,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/help.obl.ong.ico",
     "slug": "help",
     "status": "down",
-    "uptime": "88.55%",
+    "uptime": "88.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "82.40%",
-    "time": 470,
+    "uptimeYear": "82.13%",
+    "time": 471,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 474,
+    "timeYear": 475,
     "dailyMinutesDown": {
-      "2025-10-11": 97,
+      "2025-10-12": 105,
+      "2025-10-11": 1440,
       "2025-10-10": 1440,
       "2025-10-09": 1440,
       "2025-10-08": 1440,
@@ -809,8 +810,7 @@
       "2025-03-08": 39,
       "2025-02-19": 894,
       "2025-02-14": 8,
-      "2024-11-14": 7,
-      "2024-10-12": 975
+      "2024-11-14": 7
     }
   }
 ]
