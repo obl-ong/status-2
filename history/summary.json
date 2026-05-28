@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/admin.obl.ong.ico",
     "slug": "admin",
     "status": "down",
-    "uptime": "62.33%",
+    "uptime": "62.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "21.25%",
-    "time": 546,
+    "uptimeYear": "20.97%",
+    "time": 547,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 488,
+    "timeYear": 484,
     "dailyMinutesDown": {
-      "2026-05-27": 248,
+      "2026-05-28": 236,
+      "2026-05-27": 1440,
       "2026-05-26": 1440,
       "2026-05-25": 1440,
       "2026-05-24": 1440,
@@ -305,8 +306,7 @@
       "2025-08-14": 1440,
       "2025-08-13": 1440,
       "2025-08-12": 364,
-      "2025-08-01": 30,
-      "2025-05-28": 10
+      "2025-08-01": 30
     }
   },
   {
@@ -315,18 +315,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/obl.ong.ico",
     "slug": "landing",
     "status": "down",
-    "uptime": "40.05%",
+    "uptime": "40.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 883,
+    "time": 884,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 875,
     "dailyMinutesDown": {
-      "2026-05-27": 248,
+      "2026-05-28": 237,
+      "2026-05-27": 1440,
       "2026-05-26": 1440,
       "2026-05-25": 1440,
       "2026-05-24": 1440,
@@ -689,8 +690,7 @@
       "2025-06-01": 1440,
       "2025-05-31": 1440,
       "2025-05-30": 1440,
-      "2025-05-29": 1440,
-      "2025-05-28": 1440
+      "2025-05-29": 1440
     }
   },
   {
@@ -699,18 +699,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/forum.obl.ong.ico",
     "slug": "forum",
     "status": "down",
-    "uptime": "62.10%",
+    "uptime": "62.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "21.25%",
-    "time": 1015,
+    "uptimeYear": "20.97%",
+    "time": 1014,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 941,
+    "timeYear": 943,
     "dailyMinutesDown": {
-      "2026-05-27": 248,
+      "2026-05-28": 237,
+      "2026-05-27": 1440,
       "2026-05-26": 1440,
       "2026-05-25": 1440,
       "2026-05-24": 1440,
@@ -999,8 +1000,7 @@
       "2025-08-14": 1440,
       "2025-08-13": 1440,
       "2025-08-12": 363,
-      "2025-08-01": 29,
-      "2025-05-28": 9
+      "2025-08-01": 29
     }
   },
   {
@@ -1009,18 +1009,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/events.obl.ong.ico",
     "slug": "events",
     "status": "down",
-    "uptime": "42.28%",
+    "uptime": "42.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "21.25%",
-    "time": 412,
+    "uptimeYear": "20.98%",
+    "time": 413,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 399,
+    "timeYear": 403,
     "dailyMinutesDown": {
-      "2026-05-27": 248,
+      "2026-05-28": 237,
+      "2026-05-27": 1440,
       "2026-05-26": 1440,
       "2026-05-25": 1440,
       "2026-05-24": 1440,
@@ -1309,8 +1310,7 @@
       "2025-08-14": 1440,
       "2025-08-13": 1417,
       "2025-08-12": 362,
-      "2025-08-01": 29,
-      "2025-05-28": 8
+      "2025-08-01": 29
     }
   },
   {
@@ -1319,18 +1319,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/help.obl.ong.ico",
     "slug": "help",
     "status": "down",
-    "uptime": "63.03%",
+    "uptime": "62.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "21.25%",
+    "uptimeYear": "20.98%",
     "time": 502,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 507,
     "dailyMinutesDown": {
-      "2026-05-27": 248,
+      "2026-05-28": 237,
+      "2026-05-27": 1440,
       "2026-05-26": 1440,
       "2026-05-25": 1440,
       "2026-05-24": 1440,
@@ -1619,8 +1620,7 @@
       "2025-08-14": 1440,
       "2025-08-13": 1417,
       "2025-08-12": 362,
-      "2025-08-01": 28,
-      "2025-05-28": 8
+      "2025-08-01": 28
     }
   }
 ]
